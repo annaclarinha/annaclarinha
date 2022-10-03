@@ -1,8 +1,8 @@
 # SOBRE MIM
 - 👋 olá,meu nome é @annaclarinha
 - :+1: 👀 meu email de contato é anna.pereira.lopes.pr.gov.br
-- 🌱 eu estou interessado em aprender a programar novas linguagens Java
-- 💞️ eu estou aprendendo, a programar recentemente, a linguagem 
+- 🌱 eu estou interessado em aprender a programar novas linguagens
+- 💞️ eu estou aprendendo, a programar recentemente, a linguagem de JavaScript e Scratch
 - 📫 How to reach me ...
 
 <!---
