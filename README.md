@@ -6,7 +6,7 @@
 - :volleyball: *Estou praticando volei ultimamente*
 - :dog: Tenho duas cachorras, elas se chamam amora e lilica
 - :notes: Meu cantor favorito se chama Jão
-- :camera_flash: **Gosto de sair para tirar foto no meu tempo livre**
+- :camera_flash: **Gosto de sair para tirar fotos no meu tempo livre**
 - :open_book: *Também gosto de escrever as vezes*
 <!---
 annaclarinha/annaclarinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
